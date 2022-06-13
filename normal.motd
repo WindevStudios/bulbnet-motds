@@ -1,3 +1,21 @@
+!! Network Announcement !!
+
+┌──────────────────────────────────────────────────────────┐
+│Bulbnet is currently undergoing major changes.            │
+│Specifically, we're adding services.                      │
+│Pseudo-users that nearly all other IRC networks have.     │
+│Also a website! You will be able to connect to Bulbnet    │
+│from irc.windev.systems.                                  │
+│                                                          │
+│Adding services would require us to make changes to our   │
+│daemon's configuration, resulting in some downtime.       │
+│Downtime will be announced on the Discord, which is at:   │
+│discord.gg/REUZRghEJV                                     │
+│- Your friendly neighborhood netadmins                    │
+└──────────────────────────────────────────────────────────┘
+
+==========================
+
 (*＾＾*) [He is happy to see you]
 Welcome to Bulbnet, Windev's official IRC network. Well a network off of Wish.com as it's only one server lmao
 This server is ran from our datacenter over in Seattle and uses UnrealIRCd version 6.0.3. 
